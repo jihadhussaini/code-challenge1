@@ -9,5 +9,6 @@ function countSheeps(arrayOfSheep) {
         totalSheep++;
       }
     }
+    
     return totalSheep;
   }
