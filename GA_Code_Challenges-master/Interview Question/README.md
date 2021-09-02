@@ -26,8 +26,8 @@ Polymorphism
 Encapsulation
 - Hide/limit the access of certain properties/methods
 
-#### 
+#### What do you mean by Null in Javascript?
 
-
+The NULL value is used to represent no value or no object. It implies no object or null string, no valid boolean value, no number, and no array object.
 
   
